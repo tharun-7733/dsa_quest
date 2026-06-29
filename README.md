@@ -10,6 +10,7 @@ Repo completely belongs to dsa
 | [0494-target-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0494-target-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharun-7733/dsa_quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tharun-7733/dsa_quest/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tharun-7733/dsa_quest/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tharun-7733/dsa_quest/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
@@ -64,4 +65,8 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharun-7733/dsa_quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tharun-7733/dsa_quest/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->

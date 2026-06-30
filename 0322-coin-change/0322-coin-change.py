@@ -1,36 +1,25 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
         n = len(coins)
-    
-        target = amount
 
-        dp = [[-1] * (target + 1) for _ in range(n)]
+        dp = [[sys.maxsize] * (amount + 1) for _ in range(n)]
 
-        def solve(idx, target) -> int:
-            if target == 0:
-                return 0
-            
-            if idx >= n:
-                return sys.maxsize
+        for j in range(amount + 1):
+            if j % coins[0] == 0:
+                dp[0][j] = j // coins[0]
 
-            if dp[idx][target] != -1:
-                return dp[idx][target]
+        for i in range(1, n):
+            for j in range(amount + 1):
 
-            skip = 0 + solve(idx + 1, target)
+                skip = dp[i - 1][j]
 
-            take = sys.maxsize
+                take = sys.maxsize
 
-            if coins[idx] <= target:
-
-                res = solve(idx, target - coins[idx])
-
-                if res != sys.maxsize:
-                    take = 1 + res
-            
-            dp[idx][target] = min(take, skip)
-
-            return dp[idx][target]
+                if coins[i] <= j and dp[i][j - coins[i]] != sys.maxsize:
+                    take = 1 + (dp[i][j - coins[i]])
+                
+                dp[i][j] = min(skip, take)
         
-        ans = solve(0, amount)
+        ans = dp[n - 1][amount]
 
         return -1 if ans == sys.maxsize else ans

@@ -9,6 +9,7 @@ Repo completely belongs to dsa
 | [0322-coin-change](https://github.com/tharun-7733/dsa_quest/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0494-target-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/tharun-7733/dsa_quest/tree/master/1480-running-sum-of-1d-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharun-7733/dsa_quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tharun-7733/dsa_quest/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tharun-7733/dsa_quest/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -55,6 +56,7 @@ Repo completely belongs to dsa
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/tharun-7733/dsa_quest/tree/master/1480-running-sum-of-1d-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
 |  |

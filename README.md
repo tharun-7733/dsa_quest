@@ -20,6 +20,7 @@ Repo completely belongs to dsa
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tharun-7733/dsa_quest/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/tharun-7733/dsa_quest/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
@@ -29,6 +30,7 @@ Repo completely belongs to dsa
 | [0416-partition-equal-subset-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0494-target-sum) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tharun-7733/dsa_quest/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [3620-network-recovery-pathways](https://github.com/tharun-7733/dsa_quest/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Repo completely belongs to dsa
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tharun-7733/dsa_quest/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tharun-7733/dsa_quest/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/tharun-7733/dsa_quest/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
 | ------- |
@@ -115,6 +118,7 @@ Repo completely belongs to dsa
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tharun-7733/dsa_quest/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/tharun-7733/dsa_quest/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -124,10 +128,12 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/tharun-7733/dsa_quest/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/tharun-7733/dsa_quest/tree/master/3620-network-recovery-pathways) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -146,4 +152,8 @@ Repo completely belongs to dsa
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tharun-7733/dsa_quest/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tharun-7733/dsa_quest/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/tharun-7733/dsa_quest/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->

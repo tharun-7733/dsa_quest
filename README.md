@@ -20,6 +20,7 @@ Repo completely belongs to dsa
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharun-7733/dsa_quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tharun-7733/dsa_quest/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tharun-7733/dsa_quest/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tharun-7733/dsa_quest/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -36,6 +37,7 @@ Repo completely belongs to dsa
 | [1301-number-of-paths-with-max-score](https://github.com/tharun-7733/dsa_quest/tree/master/1301-number-of-paths-with-max-score) |
 | [1871-jump-game-vii](https://github.com/tharun-7733/dsa_quest/tree/master/1871-jump-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tharun-7733/dsa_quest/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
 | [3620-network-recovery-pathways](https://github.com/tharun-7733/dsa_quest/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
@@ -46,6 +48,7 @@ Repo completely belongs to dsa
 | ------- |
 | [0202-happy-number](https://github.com/tharun-7733/dsa_quest/tree/master/0202-happy-number) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tharun-7733/dsa_quest/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tharun-7733/dsa_quest/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
@@ -95,6 +98,7 @@ Repo completely belongs to dsa
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/tharun-7733/dsa_quest/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharun-7733/dsa_quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -121,6 +125,7 @@ Repo completely belongs to dsa
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tharun-7733/dsa_quest/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tharun-7733/dsa_quest/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/tharun-7733/dsa_quest/tree/master/3620-network-recovery-pathways) |
 ## Union-Find

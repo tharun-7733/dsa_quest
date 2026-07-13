@@ -90,6 +90,7 @@ Repo completely belongs to dsa
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/tharun-7733/dsa_quest/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tharun-7733/dsa_quest/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |

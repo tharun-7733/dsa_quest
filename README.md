@@ -26,6 +26,7 @@ Repo completely belongs to dsa
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tharun-7733/dsa_quest/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tharun-7733/dsa_quest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/tharun-7733/dsa_quest/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
@@ -40,6 +41,7 @@ Repo completely belongs to dsa
 | [1871-jump-game-vii](https://github.com/tharun-7733/dsa_quest/tree/master/1871-jump-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tharun-7733/dsa_quest/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tharun-7733/dsa_quest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/tharun-7733/dsa_quest/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
@@ -60,6 +62,7 @@ Repo completely belongs to dsa
 | [0002-add-two-numbers](https://github.com/tharun-7733/dsa_quest/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/tharun-7733/dsa_quest/tree/master/0202-happy-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tharun-7733/dsa_quest/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tharun-7733/dsa_quest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tharun-7733/dsa_quest/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
@@ -209,4 +212,5 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tharun-7733/dsa_quest/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tharun-7733/dsa_quest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->

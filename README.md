@@ -13,6 +13,7 @@ Repo completely belongs to dsa
 | [0416-partition-equal-subset-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/tharun-7733/dsa_quest/tree/master/0518-coin-change-ii) |
+| [0658-find-k-closest-elements](https://github.com/tharun-7733/dsa_quest/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tharun-7733/dsa_quest/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1288-remove-covered-intervals](https://github.com/tharun-7733/dsa_quest/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/tharun-7733/dsa_quest/tree/master/1301-number-of-paths-with-max-score) |
@@ -69,6 +70,7 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/tharun-7733/dsa_quest/tree/master/0202-happy-number) |
+| [0658-find-k-closest-elements](https://github.com/tharun-7733/dsa_quest/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Repo completely belongs to dsa
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/tharun-7733/dsa_quest/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/tharun-7733/dsa_quest/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharun-7733/dsa_quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -121,6 +124,7 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tharun-7733/dsa_quest/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/tharun-7733/dsa_quest/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tharun-7733/dsa_quest/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tharun-7733/dsa_quest/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/tharun-7733/dsa_quest/tree/master/1871-jump-game-vii) |
@@ -136,6 +140,7 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tharun-7733/dsa_quest/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0658-find-k-closest-elements](https://github.com/tharun-7733/dsa_quest/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tharun-7733/dsa_quest/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -150,6 +155,7 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tharun-7733/dsa_quest/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/tharun-7733/dsa_quest/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tharun-7733/dsa_quest/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/3286-find-a-safe-walk-through-a-grid) |

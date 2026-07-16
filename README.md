@@ -15,6 +15,7 @@ Repo completely belongs to dsa
 | [0518-coin-change-ii](https://github.com/tharun-7733/dsa_quest/tree/master/0518-coin-change-ii) |
 | [0658-find-k-closest-elements](https://github.com/tharun-7733/dsa_quest/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tharun-7733/dsa_quest/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0973-k-closest-points-to-origin](https://github.com/tharun-7733/dsa_quest/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/tharun-7733/dsa_quest/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/tharun-7733/dsa_quest/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/1331-rank-transform-of-an-array) |
@@ -62,6 +63,7 @@ Repo completely belongs to dsa
 | ------- |
 | [0002-add-two-numbers](https://github.com/tharun-7733/dsa_quest/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/tharun-7733/dsa_quest/tree/master/0202-happy-number) |
+| [0973-k-closest-points-to-origin](https://github.com/tharun-7733/dsa_quest/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tharun-7733/dsa_quest/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tharun-7733/dsa_quest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tharun-7733/dsa_quest/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -76,6 +78,7 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tharun-7733/dsa_quest/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0973-k-closest-points-to-origin](https://github.com/tharun-7733/dsa_quest/tree/master/0973-k-closest-points-to-origin) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
@@ -109,6 +112,7 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/tharun-7733/dsa_quest/tree/master/0658-find-k-closest-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/tharun-7733/dsa_quest/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/tharun-7733/dsa_quest/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharun-7733/dsa_quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -158,6 +162,7 @@ Repo completely belongs to dsa
 | [0239-sliding-window-maximum](https://github.com/tharun-7733/dsa_quest/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/tharun-7733/dsa_quest/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tharun-7733/dsa_quest/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0973-k-closest-points-to-origin](https://github.com/tharun-7733/dsa_quest/tree/master/0973-k-closest-points-to-origin) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/tharun-7733/dsa_quest/tree/master/3620-network-recovery-pathways) |
@@ -221,4 +226,12 @@ Repo completely belongs to dsa
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tharun-7733/dsa_quest/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tharun-7733/dsa_quest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tharun-7733/dsa_quest/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tharun-7733/dsa_quest/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tharun-7733/dsa_quest/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

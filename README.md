@@ -39,6 +39,7 @@ Repo completely belongs to dsa
 | [0416-partition-equal-subset-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/tharun-7733/dsa_quest/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/tharun-7733/dsa_quest/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/tharun-7733/dsa_quest/tree/master/1301-number-of-paths-with-max-score) |
 | [1871-jump-game-vii](https://github.com/tharun-7733/dsa_quest/tree/master/1871-jump-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tharun-7733/dsa_quest/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -121,6 +122,7 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/tharun-7733/dsa_quest/tree/master/0649-dota2-senate) |
+| [1143-longest-common-subsequence](https://github.com/tharun-7733/dsa_quest/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tharun-7733/dsa_quest/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/tharun-7733/dsa_quest/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tharun-7733/dsa_quest/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |

@@ -6,6 +6,7 @@ Repo completely belongs to dsa
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tharun-7733/dsa_quest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tharun-7733/dsa_quest/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/tharun-7733/dsa_quest/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tharun-7733/dsa_quest/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -35,6 +36,7 @@ Repo completely belongs to dsa
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tharun-7733/dsa_quest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tharun-7733/dsa_quest/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/tharun-7733/dsa_quest/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0416-partition-equal-subset-sum) |

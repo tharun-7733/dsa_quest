@@ -146,6 +146,7 @@ Repo completely belongs to dsa
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/tharun-7733/dsa_quest/tree/master/0322-coin-change) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tharun-7733/dsa_quest/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/tharun-7733/dsa_quest/tree/master/2685-count-the-number-of-complete-components) |
@@ -221,6 +222,7 @@ Repo completely belongs to dsa
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0110-balanced-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tharun-7733/dsa_quest/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/tharun-7733/dsa_quest/tree/master/2685-count-the-number-of-complete-components) |
@@ -258,9 +260,11 @@ Repo completely belongs to dsa
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->

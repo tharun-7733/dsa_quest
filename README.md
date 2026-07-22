@@ -43,6 +43,7 @@ Repo completely belongs to dsa
 | [0416-partition-equal-subset-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/tharun-7733/dsa_quest/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/tharun-7733/dsa_quest/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/tharun-7733/dsa_quest/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/tharun-7733/dsa_quest/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/tharun-7733/dsa_quest/tree/master/1301-number-of-paths-with-max-score) |
@@ -133,6 +134,7 @@ Repo completely belongs to dsa
 ## String
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/tharun-7733/dsa_quest/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/tharun-7733/dsa_quest/tree/master/0649-dota2-senate) |
 | [1092-shortest-common-supersequence](https://github.com/tharun-7733/dsa_quest/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/tharun-7733/dsa_quest/tree/master/1143-longest-common-subsequence) |

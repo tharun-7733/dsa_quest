@@ -58,6 +58,7 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/tharun-7733/dsa_quest/tree/master/0202-happy-number) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tharun-7733/dsa_quest/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
@@ -122,6 +123,7 @@ Repo completely belongs to dsa
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/tharun-7733/dsa_quest/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/tharun-7733/dsa_quest/tree/master/0973-k-closest-points-to-origin) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/tharun-7733/dsa_quest/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharun-7733/dsa_quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -150,6 +152,7 @@ Repo completely belongs to dsa
 | ------- |
 | [0100-same-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/tharun-7733/dsa_quest/tree/master/0322-coin-change) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tharun-7733/dsa_quest/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/tharun-7733/dsa_quest/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -226,6 +229,7 @@ Repo completely belongs to dsa
 | ------- |
 | [0100-same-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0110-balanced-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tharun-7733/dsa_quest/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/tharun-7733/dsa_quest/tree/master/2685-count-the-number-of-complete-components) |
 ## Linked List
@@ -264,9 +268,11 @@ Repo completely belongs to dsa
 | ------- |
 | [0100-same-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0110-balanced-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0110-balanced-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->

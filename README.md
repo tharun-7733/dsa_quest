@@ -6,6 +6,7 @@ Repo completely belongs to dsa
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/tharun-7733/dsa_quest/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tharun-7733/dsa_quest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tharun-7733/dsa_quest/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/tharun-7733/dsa_quest/tree/master/0239-sliding-window-maximum) |
@@ -53,6 +54,7 @@ Repo completely belongs to dsa
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/tharun-7733/dsa_quest/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0494-target-sum) |
 ## Hash Table
 |  |

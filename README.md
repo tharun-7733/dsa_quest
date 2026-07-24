@@ -155,6 +155,7 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/tharun-7733/dsa_quest/tree/master/0322-coin-change) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tharun-7733/dsa_quest/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -233,6 +234,7 @@ Repo completely belongs to dsa
 | ------- |
 | [0100-same-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tharun-7733/dsa_quest/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/tharun-7733/dsa_quest/tree/master/2685-count-the-number-of-complete-components) |
@@ -272,11 +274,13 @@ Repo completely belongs to dsa
 | ------- |
 | [0100-same-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->

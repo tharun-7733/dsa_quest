@@ -159,6 +159,7 @@ Repo completely belongs to dsa
 | [0111-minimum-depth-of-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/tharun-7733/dsa_quest/tree/master/0322-coin-change) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tharun-7733/dsa_quest/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/tharun-7733/dsa_quest/tree/master/2685-count-the-number-of-complete-components) |
@@ -239,6 +240,7 @@ Repo completely belongs to dsa
 | [0111-minimum-depth-of-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tharun-7733/dsa_quest/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/tharun-7733/dsa_quest/tree/master/2685-count-the-number-of-complete-components) |
@@ -283,6 +285,7 @@ Repo completely belongs to dsa
 | [0112-path-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tharun-7733/dsa_quest/tree/master/0450-delete-node-in-a-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -294,6 +297,7 @@ Repo completely belongs to dsa
 | [0112-path-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tharun-7733/dsa_quest/tree/master/0450-delete-node-in-a-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |

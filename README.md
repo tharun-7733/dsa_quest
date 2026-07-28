@@ -136,6 +136,7 @@ Repo completely belongs to dsa
 | [1331-rank-transform-of-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharun-7733/dsa_quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tharun-7733/dsa_quest/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tharun-7733/dsa_quest/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -149,6 +150,7 @@ Repo completely belongs to dsa
 | [1871-jump-game-vii](https://github.com/tharun-7733/dsa_quest/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tharun-7733/dsa_quest/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tharun-7733/dsa_quest/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tharun-7733/dsa_quest/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -310,4 +312,8 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/tharun-7733/dsa_quest/tree/master/0450-delete-node-in-a-bst) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/tharun-7733/dsa_quest/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

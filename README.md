@@ -79,6 +79,7 @@ Repo completely belongs to dsa
 | [0628-maximum-product-of-three-numbers](https://github.com/tharun-7733/dsa_quest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/tharun-7733/dsa_quest/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tharun-7733/dsa_quest/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-7733/dsa_quest/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tharun-7733/dsa_quest/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tharun-7733/dsa_quest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -127,6 +128,7 @@ Repo completely belongs to dsa
 | ------- |
 | [0649-dota2-senate](https://github.com/tharun-7733/dsa_quest/tree/master/0649-dota2-senate) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharun-7733/dsa_quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-7733/dsa_quest/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +153,7 @@ Repo completely belongs to dsa
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tharun-7733/dsa_quest/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/tharun-7733/dsa_quest/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tharun-7733/dsa_quest/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-7733/dsa_quest/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tharun-7733/dsa_quest/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tharun-7733/dsa_quest/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3518-smallest-palindromic-rearrangement-ii) |

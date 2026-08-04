@@ -61,6 +61,7 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/tharun-7733/dsa_quest/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/tharun-7733/dsa_quest/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
@@ -338,4 +339,8 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/tharun-7733/dsa_quest/tree/master/0877-stone-game) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/tharun-7733/dsa_quest/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->

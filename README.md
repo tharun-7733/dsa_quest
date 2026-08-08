@@ -57,6 +57,7 @@ Repo completely belongs to dsa
 | [1871-jump-game-vii](https://github.com/tharun-7733/dsa_quest/tree/master/1871-jump-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tharun-7733/dsa_quest/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tharun-7733/dsa_quest/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tharun-7733/dsa_quest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/tharun-7733/dsa_quest/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
@@ -101,6 +102,7 @@ Repo completely belongs to dsa
 | [0005-longest-palindromic-substring](https://github.com/tharun-7733/dsa_quest/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/tharun-7733/dsa_quest/tree/master/0202-happy-number) |
 | [0658-find-k-closest-elements](https://github.com/tharun-7733/dsa_quest/tree/master/0658-find-k-closest-elements) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tharun-7733/dsa_quest/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +141,7 @@ Repo completely belongs to dsa
 | [0649-dota2-senate](https://github.com/tharun-7733/dsa_quest/tree/master/0649-dota2-senate) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharun-7733/dsa_quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-7733/dsa_quest/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tharun-7733/dsa_quest/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +169,7 @@ Repo completely belongs to dsa
 | [1871-jump-game-vii](https://github.com/tharun-7733/dsa_quest/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tharun-7733/dsa_quest/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-7733/dsa_quest/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tharun-7733/dsa_quest/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tharun-7733/dsa_quest/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tharun-7733/dsa_quest/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3518-smallest-palindromic-rearrangement-ii) |

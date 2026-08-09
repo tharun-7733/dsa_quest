@@ -42,6 +42,7 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tharun-7733/dsa_quest/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/tharun-7733/dsa_quest/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tharun-7733/dsa_quest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tharun-7733/dsa_quest/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/tharun-7733/dsa_quest/tree/master/0322-coin-change) |
@@ -163,6 +164,7 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tharun-7733/dsa_quest/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/tharun-7733/dsa_quest/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/tharun-7733/dsa_quest/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/tharun-7733/dsa_quest/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/tharun-7733/dsa_quest/tree/master/0649-dota2-senate) |

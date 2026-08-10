@@ -57,6 +57,7 @@ Repo completely belongs to dsa
 | [1143-longest-common-subsequence](https://github.com/tharun-7733/dsa_quest/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/tharun-7733/dsa_quest/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tharun-7733/dsa_quest/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1510-stone-game-iv](https://github.com/tharun-7733/dsa_quest/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/tharun-7733/dsa_quest/tree/master/1871-jump-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tharun-7733/dsa_quest/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
@@ -90,6 +91,7 @@ Repo completely belongs to dsa
 | [0877-stone-game](https://github.com/tharun-7733/dsa_quest/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/tharun-7733/dsa_quest/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/tharun-7733/dsa_quest/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/tharun-7733/dsa_quest/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tharun-7733/dsa_quest/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-7733/dsa_quest/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tharun-7733/dsa_quest/tree/master/3312-sorted-gcd-pair-queries) |
@@ -358,6 +360,7 @@ Repo completely belongs to dsa
 | ------- |
 | [0877-stone-game](https://github.com/tharun-7733/dsa_quest/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tharun-7733/dsa_quest/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/tharun-7733/dsa_quest/tree/master/1510-stone-game-iv) |
 ## Algorithm X
 |  |
 | ------- |
@@ -366,8 +369,18 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/tharun-7733/dsa_quest/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/tharun-7733/dsa_quest/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/tharun-7733/dsa_quest/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/tharun-7733/dsa_quest/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/tharun-7733/dsa_quest/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/tharun-7733/dsa_quest/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

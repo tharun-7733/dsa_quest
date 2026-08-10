@@ -25,6 +25,7 @@ Repo completely belongs to dsa
 | [1288-remove-covered-intervals](https://github.com/tharun-7733/dsa_quest/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/tharun-7733/dsa_quest/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/tharun-7733/dsa_quest/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/tharun-7733/dsa_quest/tree/master/1480-running-sum-of-1d-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharun-7733/dsa_quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tharun-7733/dsa_quest/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -57,6 +58,7 @@ Repo completely belongs to dsa
 | [1143-longest-common-subsequence](https://github.com/tharun-7733/dsa_quest/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/tharun-7733/dsa_quest/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tharun-7733/dsa_quest/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1406-stone-game-iii](https://github.com/tharun-7733/dsa_quest/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tharun-7733/dsa_quest/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/tharun-7733/dsa_quest/tree/master/1871-jump-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tharun-7733/dsa_quest/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -91,6 +93,7 @@ Repo completely belongs to dsa
 | [0877-stone-game](https://github.com/tharun-7733/dsa_quest/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/tharun-7733/dsa_quest/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/tharun-7733/dsa_quest/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/tharun-7733/dsa_quest/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tharun-7733/dsa_quest/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tharun-7733/dsa_quest/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-7733/dsa_quest/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -360,6 +363,7 @@ Repo completely belongs to dsa
 | ------- |
 | [0877-stone-game](https://github.com/tharun-7733/dsa_quest/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tharun-7733/dsa_quest/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/tharun-7733/dsa_quest/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tharun-7733/dsa_quest/tree/master/1510-stone-game-iv) |
 ## Algorithm X
 |  |
@@ -369,11 +373,13 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/tharun-7733/dsa_quest/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/tharun-7733/dsa_quest/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tharun-7733/dsa_quest/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/tharun-7733/dsa_quest/tree/master/1140-stone-game-ii) |
+| [1406-stone-game-iii](https://github.com/tharun-7733/dsa_quest/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tharun-7733/dsa_quest/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |

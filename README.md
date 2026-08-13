@@ -46,6 +46,7 @@ Repo completely belongs to dsa
 | [0115-distinct-subsequences](https://github.com/tharun-7733/dsa_quest/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tharun-7733/dsa_quest/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tharun-7733/dsa_quest/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/tharun-7733/dsa_quest/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/tharun-7733/dsa_quest/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0494-target-sum) |
@@ -76,6 +77,7 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/tharun-7733/dsa_quest/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/tharun-7733/dsa_quest/tree/master/0264-ugly-number-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tharun-7733/dsa_quest/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -90,6 +92,7 @@ Repo completely belongs to dsa
 | [0002-add-two-numbers](https://github.com/tharun-7733/dsa_quest/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/tharun-7733/dsa_quest/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/tharun-7733/dsa_quest/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/tharun-7733/dsa_quest/tree/master/0264-ugly-number-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tharun-7733/dsa_quest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/tharun-7733/dsa_quest/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/tharun-7733/dsa_quest/tree/master/0973-k-closest-points-to-origin) |
@@ -229,6 +232,7 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tharun-7733/dsa_quest/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/tharun-7733/dsa_quest/tree/master/0264-ugly-number-ii) |
 | [0658-find-k-closest-elements](https://github.com/tharun-7733/dsa_quest/tree/master/0658-find-k-closest-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/tharun-7733/dsa_quest/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0973-k-closest-points-to-origin](https://github.com/tharun-7733/dsa_quest/tree/master/0973-k-closest-points-to-origin) |

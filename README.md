@@ -89,6 +89,7 @@ Repo completely belongs to dsa
 | ------- |
 | [0002-add-two-numbers](https://github.com/tharun-7733/dsa_quest/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/tharun-7733/dsa_quest/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/tharun-7733/dsa_quest/tree/master/0263-ugly-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tharun-7733/dsa_quest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/tharun-7733/dsa_quest/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/tharun-7733/dsa_quest/tree/master/0973-k-closest-points-to-origin) |

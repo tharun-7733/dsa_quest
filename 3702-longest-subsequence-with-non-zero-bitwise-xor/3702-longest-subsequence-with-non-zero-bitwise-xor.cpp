@@ -2,7 +2,10 @@ class Solution {
 public:
     int longestSubsequence(vector<int>& nums) {
         int n = nums.size();
-
+        
+        // condition 1 :- total xor value = 0 return 0;
+        // condition 2 :- total xor value != 0 return n;
+        // condition 3 :- total xor value zero but non zero xor value exist return n - 1
         int Xor = 0;
         bool nonZero = 0;
 

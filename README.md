@@ -27,6 +27,7 @@ Repo completely belongs to dsa
 | [1331-rank-transform-of-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/tharun-7733/dsa_quest/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/tharun-7733/dsa_quest/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/tharun-7733/dsa_quest/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharun-7733/dsa_quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tharun-7733/dsa_quest/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tharun-7733/dsa_quest/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -62,6 +63,7 @@ Repo completely belongs to dsa
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/tharun-7733/dsa_quest/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/tharun-7733/dsa_quest/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tharun-7733/dsa_quest/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/tharun-7733/dsa_quest/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/tharun-7733/dsa_quest/tree/master/1871-jump-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tharun-7733/dsa_quest/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
@@ -101,6 +103,7 @@ Repo completely belongs to dsa
 | [1140-stone-game-ii](https://github.com/tharun-7733/dsa_quest/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tharun-7733/dsa_quest/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tharun-7733/dsa_quest/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/tharun-7733/dsa_quest/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tharun-7733/dsa_quest/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-7733/dsa_quest/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tharun-7733/dsa_quest/tree/master/3312-sorted-gcd-pair-queries) |
@@ -374,6 +377,7 @@ Repo completely belongs to dsa
 | [1140-stone-game-ii](https://github.com/tharun-7733/dsa_quest/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tharun-7733/dsa_quest/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tharun-7733/dsa_quest/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/tharun-7733/dsa_quest/tree/master/1563-stone-game-v) |
 ## Algorithm X
 |  |
 | ------- |

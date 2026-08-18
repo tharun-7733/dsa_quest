@@ -30,6 +30,7 @@ Repo completely belongs to dsa
 | [1563-stone-game-v](https://github.com/tharun-7733/dsa_quest/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharun-7733/dsa_quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tharun-7733/dsa_quest/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/tharun-7733/dsa_quest/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tharun-7733/dsa_quest/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tharun-7733/dsa_quest/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
@@ -66,6 +67,7 @@ Repo completely belongs to dsa
 | [1563-stone-game-v](https://github.com/tharun-7733/dsa_quest/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/tharun-7733/dsa_quest/tree/master/1871-jump-game-vii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tharun-7733/dsa_quest/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/tharun-7733/dsa_quest/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tharun-7733/dsa_quest/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tharun-7733/dsa_quest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -255,6 +257,7 @@ Repo completely belongs to dsa
 ## Graph Theory
 |  |
 | ------- |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/tharun-7733/dsa_quest/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/tharun-7733/dsa_quest/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/tharun-7733/dsa_quest/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -406,4 +409,8 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tharun-7733/dsa_quest/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/tharun-7733/dsa_quest/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 <!---LeetCode Topics End-->

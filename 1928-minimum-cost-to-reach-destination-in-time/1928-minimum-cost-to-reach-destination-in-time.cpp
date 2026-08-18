@@ -24,7 +24,7 @@ public:
             int time = current.second.first;
             int node = current.second.second;
 
-            if (cost != dist[node][time]) continue;
+            // if (cost != dist[node][time]) continue;
 
             if (node == n - 1) return cost;
 

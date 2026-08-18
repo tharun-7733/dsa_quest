@@ -99,6 +99,7 @@ Repo completely belongs to dsa
 | [0202-happy-number](https://github.com/tharun-7733/dsa_quest/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/tharun-7733/dsa_quest/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/tharun-7733/dsa_quest/tree/master/0264-ugly-number-ii) |
+| [0556-next-greater-element-iii](https://github.com/tharun-7733/dsa_quest/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tharun-7733/dsa_quest/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/tharun-7733/dsa_quest/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/tharun-7733/dsa_quest/tree/master/0973-k-closest-points-to-origin) |
@@ -121,6 +122,7 @@ Repo completely belongs to dsa
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tharun-7733/dsa_quest/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/tharun-7733/dsa_quest/tree/master/0202-happy-number) |
+| [0556-next-greater-element-iii](https://github.com/tharun-7733/dsa_quest/tree/master/0556-next-greater-element-iii) |
 | [0658-find-k-closest-elements](https://github.com/tharun-7733/dsa_quest/tree/master/0658-find-k-closest-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tharun-7733/dsa_quest/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Divide and Conquer
@@ -182,6 +184,7 @@ Repo completely belongs to dsa
 | [0005-longest-palindromic-substring](https://github.com/tharun-7733/dsa_quest/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/tharun-7733/dsa_quest/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/tharun-7733/dsa_quest/tree/master/0516-longest-palindromic-subsequence) |
+| [0556-next-greater-element-iii](https://github.com/tharun-7733/dsa_quest/tree/master/0556-next-greater-element-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/tharun-7733/dsa_quest/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/tharun-7733/dsa_quest/tree/master/0649-dota2-senate) |
 | [1092-shortest-common-supersequence](https://github.com/tharun-7733/dsa_quest/tree/master/1092-shortest-common-supersequence) |

@@ -25,6 +25,7 @@ Repo completely belongs to dsa
 | [1288-remove-covered-intervals](https://github.com/tharun-7733/dsa_quest/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/tharun-7733/dsa_quest/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/tharun-7733/dsa_quest/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/tharun-7733/dsa_quest/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/tharun-7733/dsa_quest/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/tharun-7733/dsa_quest/tree/master/1563-stone-game-v) |
@@ -86,6 +87,7 @@ Repo completely belongs to dsa
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/tharun-7733/dsa_quest/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/tharun-7733/dsa_quest/tree/master/1386-cinema-seat-allocation) |
 | [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tharun-7733/dsa_quest/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tharun-7733/dsa_quest/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -162,6 +164,7 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/tharun-7733/dsa_quest/tree/master/0649-dota2-senate) |
+| [1386-cinema-seat-allocation](https://github.com/tharun-7733/dsa_quest/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/tharun-7733/dsa_quest/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tharun-7733/dsa_quest/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tharun-7733/dsa_quest/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -411,6 +414,7 @@ Repo completely belongs to dsa
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/tharun-7733/dsa_quest/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tharun-7733/dsa_quest/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dijkstra's Algorithm
 |  |

@@ -37,6 +37,7 @@ Repo completely belongs to dsa
 | [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tharun-7733/dsa_quest/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/tharun-7733/dsa_quest/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/tharun-7733/dsa_quest/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/tharun-7733/dsa_quest/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tharun-7733/dsa_quest/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -420,4 +421,8 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/tharun-7733/dsa_quest/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/tharun-7733/dsa_quest/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->

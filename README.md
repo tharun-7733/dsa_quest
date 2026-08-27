@@ -307,6 +307,7 @@ Repo completely belongs to dsa
 | [0111-minimum-depth-of-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/tharun-7733/dsa_quest/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tharun-7733/dsa_quest/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0669-trim-a-binary-search-tree) |
@@ -318,6 +319,7 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tharun-7733/dsa_quest/tree/master/0002-add-two-numbers) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tharun-7733/dsa_quest/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -356,6 +358,7 @@ Repo completely belongs to dsa
 | [0111-minimum-depth-of-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/tharun-7733/dsa_quest/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tharun-7733/dsa_quest/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tharun-7733/dsa_quest/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -370,6 +373,7 @@ Repo completely belongs to dsa
 | [0111-minimum-depth-of-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tharun-7733/dsa_quest/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/tharun-7733/dsa_quest/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tharun-7733/dsa_quest/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tharun-7733/dsa_quest/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tharun-7733/dsa_quest/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -429,4 +433,8 @@ Repo completely belongs to dsa
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tharun-7733/dsa_quest/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tharun-7733/dsa_quest/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->

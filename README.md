@@ -121,6 +121,7 @@ Repo completely belongs to dsa
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tharun-7733/dsa_quest/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tharun-7733/dsa_quest/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3871-count-commas-in-range-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
 |  |
 | ------- |

@@ -136,6 +136,7 @@ Repo completely belongs to dsa
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/tharun-7733/dsa_quest/tree/master/0191-number-of-1-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/tharun-7733/dsa_quest/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0973-k-closest-points-to-origin](https://github.com/tharun-7733/dsa_quest/tree/master/0973-k-closest-points-to-origin) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -431,6 +432,7 @@ Repo completely belongs to dsa
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/tharun-7733/dsa_quest/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/tharun-7733/dsa_quest/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tharun-7733/dsa_quest/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dijkstra's Algorithm

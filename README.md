@@ -45,6 +45,7 @@ Repo completely belongs to dsa
 | [3620-network-recovery-pathways](https://github.com/tharun-7733/dsa_quest/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tharun-7733/dsa_quest/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/tharun-7733/dsa_quest/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +127,7 @@ Repo completely belongs to dsa
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tharun-7733/dsa_quest/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3871-count-commas-in-range-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/tharun-7733/dsa_quest/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +170,7 @@ Repo completely belongs to dsa
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/tharun-7733/dsa_quest/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tharun-7733/dsa_quest/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/tharun-7733/dsa_quest/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3886-sum-of-sortable-integers](https://github.com/tharun-7733/dsa_quest/tree/master/3886-sum-of-sortable-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -190,6 +193,7 @@ Repo completely belongs to dsa
 | [2501-longest-square-streak-in-an-array](https://github.com/tharun-7733/dsa_quest/tree/master/2501-longest-square-streak-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tharun-7733/dsa_quest/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/tharun-7733/dsa_quest/tree/master/3536-maximum-product-of-two-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/tharun-7733/dsa_quest/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |

@@ -46,6 +46,7 @@ Repo completely belongs to dsa
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tharun-7733/dsa_quest/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/tharun-7733/dsa_quest/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/tharun-7733/dsa_quest/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/tharun-7733/dsa_quest/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |

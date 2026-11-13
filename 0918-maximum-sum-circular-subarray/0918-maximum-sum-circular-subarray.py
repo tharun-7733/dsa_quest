@@ -17,5 +17,5 @@ class Solution:
 
         if ans_max < 0:
             return ans_max
-        
+
         return max(ans_max, total_sum - ans_min)
